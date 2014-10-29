@@ -1,0 +1,122 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="ContableWeb.master.vb" Inherits="ContableWeb.ContableWeb" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Sistema contable</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+
+<!--<link href="css/style.gray.css" rel="stylesheet" type="text/css" />-->
+<!--[if IE 9]>
+    <link rel="stylesheet" media="screen" href="css/ie9.css"/>
+<![endif]-->
+
+<!--[if IE 8]>
+    <link rel="stylesheet" media="screen" href="css/ie8.css"/>
+<![endif]-->
+
+<!--[if IE 7]>
+    <link rel="stylesheet" media="screen" href="css/ie7.css"/>
+<![endif]-->
+
+<script type="text/javascript" src="./js/plugins/jquery-1.7.min.js"></script>
+<script type="text/javascript" src="./js/plugins/jquery-ui-1.8.16.custom.min.js"></script>
+<script type="text/javascript" src="./js/plugins/colorpicker.js"></script>
+<script type="text/javascript" src="./js/plugins/jquery.jgrowl.js"></script>
+<script type="text/javascript" src="./js/plugins/jquery.alerts.js"></script>
+<script type="text/javascript" src="./js/custom/general.js"></script>
+<script type="text/javascript" src="./js/custom/elements.js"></script><script type="text/javascript" src="./js/plugins/jquery.dataTables.js"></script>
+<script type="text/javascript" src="./js/custom/tables.js"></script>
+
+<!--[if lt IE 9]>
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+</head>
+
+<body class="loggedin">
+
+	<!-- START OF HEADER -->
+	<div class="header radius3">
+    	<div class="headerinner">
+            <a href="Default.aspx"><img src="./images/starlight_admin_template_logo_small.png" alt="" /></a>
+            <div class="headright">
+            	<div class="headercolumn">&nbsp;</div>
+            </div><!--headright-->
+        </div><!--headerinner-->
+	</div><!--header-->
+    <!-- END OF HEADER -->
+        
+    <!-- START OF MAIN CONTENT -->
+    <div class="mainwrapper">
+     	<div class="mainwrapperinner">
+         	
+        <div class="mainleft">
+          	<div class="mainleftinner">
+            
+              	<div class="leftmenu">
+            		<ul>
+            		    <li class="current"><a href="#" class="dashboard"><span>Tablas</span></a></li>
+            		    <li><a href="frmCuenta.aspx" class="tables"><span>Cuentas</span></a></li>
+            		    <li><a href="frmProveedor.aspx" class="tables"><span>Proveedores</span></a></li>
+            		    <li><a href="frmClub.aspx" class="tables"><span>Clubes</span></a></li>
+            		    <li><a href="frmFederacion.aspx" class="tables"><span>Federaciones</span></a></li>
+            		    <li><a href="frmSocio.aspx" class="tables"><span>Socios</span></a></li>
+            		    <li><a href="frmMasTablas.aspx" class="tables"><span>Más tablas...</span></a></li>
+            		</ul>
+            		<br />
+            		<ul>
+                        <li class="current"><a href="#" class="dashboard"><span>Procesos</span></a></li>
+                        <li><a href="frmAsiento.aspx" class="tables"><span>Asientos</span></a></li>
+                        <li><a href="frmComprobante.aspx" class="tables"><span>Emisión de comprobantes</span></a></li>
+                        <li><a href="frmFondoFijo.aspx" class="tables"><span>Fondo Fijo</span></a></li>
+                        <li><a href="frmRegistroMultas.aspx" class="tables"><span>Registro de multas</span></a></li>
+                    </ul>
+            		<br />
+            		<ul>
+                        <li class="current"><a href="#" class="dashboard"><span>Reportes</span></a></li>
+                        <li><a href="frmReporteCtaCte.aspx" class="tables"><span>Comprobantes Emitidos</span></a></li>
+                        <li><a href="frmReporteMultas.aspx" class="tables"><span>Multas por torneos</span></a></li>
+                        <li><a href="frmReporteLibrodiario.aspx" class="tables"><span>Libro Diario</span></a></li>
+                        <li><a href="frmReporteSumasSaldos.aspx" class="tables"><span>Sumas y Saldos</span></a></li>
+                        <li><a href="frmReportePlanDeCuentas.aspx" class="tables"><span>Plan de cuentas</span></a></li>
+                    </ul>
+
+                </div><!--leftmenu-->
+               
+            	<div id="togglemenuleft"><a></a></div>
+            </div><!--mainleftinner-->
+        </div><!--mainleft-->
+        
+        <div class="maincontent noright">
+        	<div class="maincontentinner">
+            	
+                <ul class="maintabmenu multipletabmenu">
+                	<li class="current"><a href="#"><asp:ContentPlaceHolder ID="ContentTitulo" runat="server" /></a></li>
+                </ul><!--maintabmenu-->
+                
+                <div class="content">
+                <asp:ContentPlaceHolder ID="contentCuerpo" runat="server" />
+                </div><!--content-->
+                
+            </div><!--maincontentinner-->
+            
+            <div class="footer">
+            	<p>Desarrollado por Sysmo Consultora</p>
+            </div><!--footer-->
+            
+        </div><!--maincontent-->
+                        
+     	</div><!--mainwrapperinner-->
+    </div><!--mainwrapper-->
+	<!-- END OF MAIN CONTENT -->
+    
+
+</body>
+</html>
+
+<!-- ------------------------------------------------------------------------------------------------------------ -->
+

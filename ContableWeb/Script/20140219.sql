@@ -1,0 +1,1 @@
+﻿update pantalla set descripcion = 'Facturar/Imprimir Remitos' where idPantalla = 11

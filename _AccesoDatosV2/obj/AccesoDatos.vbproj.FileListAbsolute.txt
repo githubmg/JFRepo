@@ -1,0 +1,63 @@
+\\Lidherma-sql\sistemas\Fuentes\AccesoDatos\bin\Debug\AccesoDatos.dll
+\\Lidherma-sql\sistemas\Fuentes\AccesoDatos\bin\Debug\AccesoDatos.pdb
+\\Lidherma-sql\sistemas\Fuentes\AccesoDatos\bin\Debug\LidhermaGestion.AccesoDatos.xml
+\\Lidherma-sql\sistemas\Fuentes\AccesoDatos\obj\Debug\ResolveAssemblyReference.cache
+\\Lidherma-sql\sistemas\Fuentes\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+\\Lidherma-sql\sistemas\Fuentes\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+\\Lidherma-sql\sistemas\Fuentes\AccesoDatos\obj\Debug\AccesoDatos.dll
+\\Lidherma-sql\sistemas\Fuentes\AccesoDatos\obj\Debug\LidhermaGestion.AccesoDatos.xml
+\\Lidherma-sql\sistemas\Fuentes\AccesoDatos\obj\Debug\AccesoDatos.pdb
+\\Lidherma-sql\sistemas\Fuentes\AccesoDatos\bin\Release\AccesoDatos.dll
+\\Lidherma-sql\sistemas\Fuentes\AccesoDatos\bin\Release\AccesoDatos.pdb
+\\Lidherma-sql\sistemas\Fuentes\AccesoDatos\bin\Release\LidhermaGestion.AccesoDatos.xml
+\\Lidherma-sql\sistemas\Fuentes\AccesoDatos\obj\Release\ResolveAssemblyReference.cache
+\\Lidherma-sql\sistemas\Fuentes\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+\\Lidherma-sql\sistemas\Fuentes\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.Cache
+\\Lidherma-sql\sistemas\Fuentes\AccesoDatos\obj\Release\AccesoDatos.dll
+\\Lidherma-sql\sistemas\Fuentes\AccesoDatos\obj\Release\LidhermaGestion.AccesoDatos.xml
+\\Lidherma-sql\sistemas\Fuentes\AccesoDatos\obj\Release\AccesoDatos.pdb
+C:\Documents and Settings\lantonelli\Escritorio\SISTEMAS\Fuentes\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Documents and Settings\lantonelli\Escritorio\SISTEMAS\Fuentes\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Documents and Settings\lantonelli\Escritorio\SISTEMAS\Fuentes\AccesoDatos\bin\Debug\LidhermaGestion.AccesoDatos.xml
+C:\Documents and Settings\lantonelli\Escritorio\SISTEMAS\Fuentes\AccesoDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lantonelli\Escritorio\SISTEMAS\Fuentes\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+C:\Documents and Settings\lantonelli\Escritorio\SISTEMAS\Fuentes\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+C:\Documents and Settings\lantonelli\Escritorio\SISTEMAS\Fuentes\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Documents and Settings\lantonelli\Escritorio\SISTEMAS\Fuentes\AccesoDatos\obj\Debug\LidhermaGestion.AccesoDatos.xml
+C:\Documents and Settings\lantonelli\Escritorio\SISTEMAS\Fuentes\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Documents and Settings\lantonelli\Escritorio\SISTEMAS\Fuentes\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Documents and Settings\lantonelli\Escritorio\SISTEMAS\Fuentes\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Documents and Settings\lantonelli\Escritorio\SISTEMAS\Fuentes\AccesoDatos\bin\Release\LidhermaGestion.AccesoDatos.xml
+C:\Documents and Settings\lantonelli\Escritorio\SISTEMAS\Fuentes\AccesoDatos\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\lantonelli\Escritorio\SISTEMAS\Fuentes\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+C:\Documents and Settings\lantonelli\Escritorio\SISTEMAS\Fuentes\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.Cache
+C:\Documents and Settings\lantonelli\Escritorio\SISTEMAS\Fuentes\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Documents and Settings\lantonelli\Escritorio\SISTEMAS\Fuentes\AccesoDatos\obj\Release\LidhermaGestion.AccesoDatos.xml
+C:\Documents and Settings\lantonelli\Escritorio\SISTEMAS\Fuentes\AccesoDatos\obj\Release\AccesoDatos.pdb
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\AccesoDatos.dll
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\AccesoDatos.pdb
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\LidhermaGestion.AccesoDatos.xml
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.Resources.resources
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.dll
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\LidhermaGestion.AccesoDatos.xml
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.pdb
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Release\AccesoDatos.dll
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Release\AccesoDatos.pdb
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Release\LidhermaGestion.AccesoDatos.xml
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Release\ResolveAssemblyReference.cache
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Release\AccesoDatos.Resources.resources
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Release\AccesoDatos.vbproj.GenerateResource.Cache
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Release\AccesoDatos.dll
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Release\LidhermaGestion.AccesoDatos.xml
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Release\AccesoDatos.pdb
+\\newage2\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\AccesoDatos.dll
+\\newage2\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\AccesoDatos.pdb
+\\newage2\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\LidhermaGestion.AccesoDatos.xml
+\\newage2\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\ResolveAssemblyReference.cache
+\\newage2\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.Resources.resources
+\\newage2\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+\\newage2\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.dll
+\\newage2\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\LidhermaGestion.AccesoDatos.xml
+\\newage2\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.pdb

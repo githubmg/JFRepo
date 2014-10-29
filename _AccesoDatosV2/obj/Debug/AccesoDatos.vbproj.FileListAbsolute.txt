@@ -1,0 +1,87 @@
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\LidhermaGestion.AccesoDatos.xml
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.Resources.resources
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\LidhermaGestion.AccesoDatos.xml
+G:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\AccesoDatos.dll
+G:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\AccesoDatos.pdb
+G:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\LidhermaGestion.AccesoDatos.xml
+G:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\ResolveAssemblyReference.cache
+G:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.Resources.resources
+G:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+G:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.dll
+G:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\LidhermaGestion.AccesoDatos.xml
+G:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.pdb
+J:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\AccesoDatos.dll
+J:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\AccesoDatos.pdb
+J:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\LidhermaGestion.AccesoDatos.xml
+J:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\ResolveAssemblyReference.cache
+J:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.Resources.resources
+J:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+J:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.dll
+J:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\LidhermaGestion.AccesoDatos.xml
+J:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.pdb
+H:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\AccesoDatos.dll
+H:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\AccesoDatos.pdb
+H:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\LidhermaGestion.AccesoDatos.xml
+H:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\ResolveAssemblyReference.cache
+H:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.Resources.resources
+H:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+H:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.dll
+H:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\LidhermaGestion.AccesoDatos.xml
+H:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.pdb
+I:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\AccesoDatos.dll
+I:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\AccesoDatos.pdb
+I:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\LidhermaGestion.AccesoDatos.xml
+I:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\ResolveAssemblyReference.cache
+I:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.Resources.resources
+I:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+I:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.dll
+I:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\LidhermaGestion.AccesoDatos.xml
+I:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.pdb
+F:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\LidhermaGestion.AccesoDatos.xml
+F:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\ResolveAssemblyReference.cache
+F:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+F:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\LidhermaGestion.AccesoDatos.xml
+F:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\Sysmo.AccesoDatos.dll
+F:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\Sysmo.AccesoDatos.pdb
+F:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\Sysmo.AccesoDatos.dll
+F:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\Sysmo.AccesoDatos.pdb
+F:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.Resources.resources
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\Sysmo.AccesoDatos.dll
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\bin\Debug\Sysmo.AccesoDatos.pdb
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\Sysmo.AccesoDatos.dll
+E:\DESARROLLO\PROYECTOS\_AccesoDatosV2\obj\Debug\Sysmo.AccesoDatos.pdb
+C:\Users\lantonelli\Desarrollo\PROYECTOS\_AccesoDatosV2\bin\Debug\Sysmo.AccesoDatos.dll
+C:\Users\lantonelli\Desarrollo\PROYECTOS\_AccesoDatosV2\bin\Debug\Sysmo.AccesoDatos.pdb
+C:\Users\lantonelli\Desarrollo\PROYECTOS\_AccesoDatosV2\bin\Debug\LidhermaGestion.AccesoDatos.xml
+C:\Users\lantonelli\Desarrollo\PROYECTOS\_AccesoDatosV2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lantonelli\Desarrollo\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.Resources.resources
+C:\Users\lantonelli\Desarrollo\PROYECTOS\_AccesoDatosV2\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+C:\Users\lantonelli\Desarrollo\PROYECTOS\_AccesoDatosV2\obj\Debug\Sysmo.AccesoDatos.dll
+C:\Users\lantonelli\Desarrollo\PROYECTOS\_AccesoDatosV2\obj\Debug\LidhermaGestion.AccesoDatos.xml
+C:\Users\lantonelli\Desarrollo\PROYECTOS\_AccesoDatosV2\obj\Debug\Sysmo.AccesoDatos.pdb
+C:\Users\Fran\Desktop\JFServiciosBKP\_AccesoDatosV2\bin\Debug\Sysmo.AccesoDatos.dll
+C:\Users\Fran\Desktop\JFServiciosBKP\_AccesoDatosV2\bin\Debug\Sysmo.AccesoDatos.pdb
+C:\Users\Fran\Desktop\JFServiciosBKP\_AccesoDatosV2\bin\Debug\LidhermaGestion.AccesoDatos.xml
+C:\Users\Fran\Desktop\JFServiciosBKP\_AccesoDatosV2\obj\Debug\AccesoDatos.Resources.resources
+C:\Users\Fran\Desktop\JFServiciosBKP\_AccesoDatosV2\obj\Debug\Sysmo.AccesoDatos.dll
+C:\Users\Fran\Desktop\JFServiciosBKP\_AccesoDatosV2\obj\Debug\LidhermaGestion.AccesoDatos.xml
+C:\Users\Fran\Desktop\JFServiciosBKP\_AccesoDatosV2\obj\Debug\Sysmo.AccesoDatos.pdb
+C:\Users\Fran\Desktop\JFServiciosBKP\_AccesoDatosV2\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+C:\Users\mgaska\Documents\My Dropbox\JFServiciosBKP\_AccesoDatosV2\bin\Debug\Sysmo.AccesoDatos.dll
+C:\Users\mgaska\Documents\My Dropbox\JFServiciosBKP\_AccesoDatosV2\bin\Debug\Sysmo.AccesoDatos.pdb
+C:\Users\mgaska\Documents\My Dropbox\JFServiciosBKP\_AccesoDatosV2\bin\Debug\LidhermaGestion.AccesoDatos.xml
+C:\Users\mgaska\Documents\My Dropbox\JFServiciosBKP\_AccesoDatosV2\obj\Debug\AccesoDatos.Resources.resources
+C:\Users\mgaska\Documents\My Dropbox\JFServiciosBKP\_AccesoDatosV2\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+C:\Users\mgaska\Documents\My Dropbox\JFServiciosBKP\_AccesoDatosV2\obj\Debug\Sysmo.AccesoDatos.dll
+C:\Users\mgaska\Documents\My Dropbox\JFServiciosBKP\_AccesoDatosV2\obj\Debug\LidhermaGestion.AccesoDatos.xml
+C:\Users\mgaska\Documents\My Dropbox\JFServiciosBKP\_AccesoDatosV2\obj\Debug\Sysmo.AccesoDatos.pdb
+C:\Users\Fran\Dropbox\JFServiciosBKP\_AccesoDatosV2\bin\Debug\Sysmo.AccesoDatos.dll
+C:\Users\Fran\Dropbox\JFServiciosBKP\_AccesoDatosV2\bin\Debug\Sysmo.AccesoDatos.pdb
+C:\Users\Fran\Dropbox\JFServiciosBKP\_AccesoDatosV2\bin\Debug\LidhermaGestion.AccesoDatos.xml
+C:\Users\Fran\Dropbox\JFServiciosBKP\_AccesoDatosV2\obj\Debug\AccesoDatos.Resources.resources
+C:\Users\Fran\Dropbox\JFServiciosBKP\_AccesoDatosV2\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+C:\Users\Fran\Dropbox\JFServiciosBKP\_AccesoDatosV2\obj\Debug\Sysmo.AccesoDatos.dll
+C:\Users\Fran\Dropbox\JFServiciosBKP\_AccesoDatosV2\obj\Debug\LidhermaGestion.AccesoDatos.xml
+C:\Users\Fran\Dropbox\JFServiciosBKP\_AccesoDatosV2\obj\Debug\Sysmo.AccesoDatos.pdb

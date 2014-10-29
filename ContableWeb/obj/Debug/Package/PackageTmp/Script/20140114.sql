@@ -1,0 +1,38 @@
+﻿GO
+CREATE TABLE dbo.pagoCheque
+	(
+	idPago int NOT NULL,
+	idCheque int NOT NULL
+	)  ON [PRIMARY]
+GO
+ALTER TABLE dbo.pagoCheque ADD CONSTRAINT
+	PK_pagoCheque PRIMARY KEY CLUSTERED 
+	(
+	idPago,
+	idCheque
+	) WITH( STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+
+GO
+GO
+ALTER TABLE dbo.pagoCheque ADD CONSTRAINT
+	FK_pagoCheque_cheque FOREIGN KEY
+	(
+	idCheque
+	) REFERENCES dbo.cheque
+	(
+	idCheque
+	) ON UPDATE  NO ACTION 
+	 ON DELETE  NO ACTION 
+	
+GO
+ALTER TABLE dbo.pagoCheque ADD CONSTRAINT
+	FK_pagoCheque_pago FOREIGN KEY
+	(
+	idPago
+	) REFERENCES dbo.pago
+	(
+	idPago
+	) ON UPDATE  NO ACTION 
+	 ON DELETE  NO ACTION 
+	
+GO

@@ -1,0 +1,107 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="ContableWeb.master.vb" Inherits="ContableWeb.ContableWeb" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>JF Servicios - Sistema de gestión</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="images/favicon.ico" />
+<!--<link href="css/style.gray.css" rel="stylesheet" type="text/css" />-->
+<!--[if IE 9]>
+    <link rel="stylesheet" media="screen" href="css/ie9.css"/>
+<![endif]-->
+
+<!--[if IE 8]>
+    <link rel="stylesheet" media="screen" href="css/ie8.css"/>
+<![endif]-->
+
+<!--[if IE 7]>
+    <link rel="stylesheet" media="screen" href="css/ie7.css"/>
+<![endif]-->
+
+<script type="text/javascript" src="./js/plugins/jquery-1.7.min.js"></script>
+<script type="text/javascript" src="./js/plugins/jquery-ui-1.8.16.custom.min.js"></script>
+<script type="text/javascript" src="./js/plugins/colorpicker.js"></script>
+<script type="text/javascript" src="./js/plugins/jquery.jgrowl.js"></script>
+<script type="text/javascript" src="./js/plugins/jquery.alerts.js"></script>
+<script type="text/javascript" src="./js/custom/general.js"></script>
+<script type="text/javascript" src="./js/custom/elements.js"></script>
+<script type="text/javascript" src="./js/plugins/jquery.dataTables.js"></script>
+<script type="text/javascript" src="./js/custom/tables.js"></script>
+
+<!--[if lt IE 9]>
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+</head>
+
+<body class="loggedin">
+
+	<!-- START OF HEADER -->
+	<div class="header radius3">
+    	<div class="headerinner">
+            <a href="Default.aspx"><img src="./images/starlight_admin_template_logo_small.png" alt="" /></a>
+            <div class="headright">
+            	<div class="headercolumn">&nbsp;</div>
+            </div><!--headright-->
+        </div><!--headerinner-->
+	</div><!--header-->
+    <!-- END OF HEADER -->
+        
+    <!-- START OF MAIN CONTENT -->
+    <div class="mainwrapper">
+     	<div class="mainwrapperinner">
+         	
+        <div class="mainleft">
+          	<div class="mainleftinner">
+            
+              	<div class="leftmenu">
+            		<ul id="ulTablas" runat="server">
+            		 
+            		</ul>
+            		<br />
+            		<ul id="ulProcesos" runat="server">
+                    </ul>
+            		<br />
+            		<ul id="ulReportes" runat="server">
+                    
+                    </ul>
+
+                </div><!--leftmenu-->
+               
+            	<div id="togglemenuleft"><a></a></div>
+            </div><!--mainleftinner-->
+        </div><!--mainleft-->
+        
+        <div class="maincontent noright">
+        	<div class="maincontentinner">
+            	
+                <ul class="maintabmenu multipletabmenu">
+                	<li class="current"><a href="#"><asp:ContentPlaceHolder ID="ContentTitulo" runat="server" /></a></li>
+                </ul><!--maintabmenu-->
+                
+                <div class="content">
+                <asp:ContentPlaceHolder ID="contentCuerpo" runat="server" />
+                </div><!--content-->
+                
+            </div><!--maincontentinner-->
+            
+            <div class="footer">
+            	<p>Desarrollado por Sysmo Consultora</p>
+            </div><!--footer-->
+            
+        </div><!--maincontent-->
+                        
+     	</div><!--mainwrapperinner-->
+    </div><!--mainwrapper-->
+	<!-- END OF MAIN CONTENT -->
+    
+
+</body>
+</html>
+
+<!-- ------------------------------------------------------------------------------------------------------------ -->
+

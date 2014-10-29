@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{63614057-D193-47AB-A814-AEE745CF759E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Negocio</RootNamespace>
+    <AssemblyName>Negocio</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>On</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Negocio.xml</DocumentationFile>
+    <NoWarn>42353,42354,42355</NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Negocio.xml</DocumentationFile>
+    <NoWarn>42353,42354,42355</NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\..\Program Files\Microsoft Visual Studio 10.0\ReportViewer\Microsoft.ReportViewer.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AlicuotaIva.vb" />
+    <Compile Include="AsientoCabe.vb" />
+    <Compile Include="AsientoItem.vb" />
+    <Compile Include="Banco.vb" />
+    <Compile Include="CategoriaSocio.vb" />
+    <Compile Include="CentroCostos.vb" />
+    <Compile Include="Cheque.vb" />
+    <Compile Include="Cliente.vb" />
+    <Compile Include="Club.vb" />
+    <Compile Include="Cobro.vb" />
+    <Compile Include="CompraCabe.vb" />
+    <Compile Include="CompraCabePagoItem.vb" />
+    <Compile Include="CompraItem.vb" />
+    <Compile Include="ComprobanteCabe.vb" />
+    <Compile Include="ComprobanteItem.vb" />
+    <Compile Include="ComprobanteProveedor.vb" />
+    <Compile Include="ComprobanteProveedorItem.vb" />
+    <Compile Include="ConceptoCuota.vb" />
+    <Compile Include="ConceptoRetencion.vb" />
+    <Compile Include="CondicionIva.vb" />
+    <Compile Include="CondicionVenta.vb" />
+    <Compile Include="Configuracion.vb" />
+    <Compile Include="Cotizacion.vb" />
+    <Compile Include="Deposito.vb" />
+    <Compile Include="DescripcionMovCaja.vb" />
+    <Compile Include="DM\DMAlicuotaIva.vb" />
+    <Compile Include="DM\DMAsientoTipoItem.vb" />
+    <Compile Include="DM\DMAsientoTipo.vb" />
+    <Compile Include="DM\DMCheque.vb" />
+    <Compile Include="DM\DMCliente.vb" />
+    <Compile Include="DM\DMCobro.vb" />
+    <Compile Include="DM\DMCompraCabe.vb" />
+    <Compile Include="DM\DMCompraItem.vb" />
+    <Compile Include="DM\DMComprobanteCabe.vb" />
+    <Compile Include="DM\DMComprobanteItem.vb" />
+    <Compile Include="DM\DMCotizacion.vb" />
+    <Compile Include="DM\DMDeposito.vb" />
+    <Compile Include="DM\DMDescripcionMovCaja.vb" />
+    <Compile Include="DM\DMEjercicio.vb" />
+    <Compile Include="DM\DMEstadoPedido.vb" />
+    <Compile Include="DM\DMEvento.vb" />
+    <Compile Include="DM\DMFactura.vb" />
+    <Compile Include="DM\DMFamilia.vb" />
+    <Compile Include="DM\DMFederacion.vb" />
+    <Compile Include="DM\DMFondoFijo.vb" />
+    <Compile Include="DM\DMFondoFijoItem.vb" />
+    <Compile Include="DM\DMKit.vb" />
+    <Compile Include="DM\DMKitProducto.vb" />
+    <Compile Include="DM\DMLocalidad.vb" />
+    <Compile Include="DM\DMMedioPago.vb" />
+    <Compile Include="DM\DMMoneda.vb" />
+    <Compile Include="DM\DMMovimientoCaja.vb" />
+    <Compile Include="DM\DMMovimientoCajaCabe.vb" />
+    <Compile Include="DM\DMMovimientoCajaItem.vb" />
+    <Compile Include="DM\DMMovimientoStock.vb" />
+    <Compile Include="DM\DMMultaSocioCabe.vb" />
+    <Compile Include="DM\DMMultaSocioItem.vb" />
+    <Compile Include="DM\DMMultaSocioPago.vb" />
+    <Compile Include="DM\DMOrigenCheque.vb" />
+    <Compile Include="DM\DMPago.vb" />
+    <Compile Include="DM\DMPantalla.vb" />
+    <Compile Include="DM\DMParametro.vb" />
+    <Compile Include="DM\DMPedidoCabe.vb" />
+    <Compile Include="DM\DMPedidoItem.vb" />
+    <Compile Include="DM\DMProducto.vb" />
+    <Compile Include="DM\DMRemito.vb" />
+    <Compile Include="DM\DMReporte.vb" />
+    <Compile Include="DM\DMTipoInterdeposito.vb" />
+    <Compile Include="DM\DMTipoMovimiento.vb" />
+    <Compile Include="DM\DMTipoOrden.vb" />
+    <Compile Include="DM\DMUbicacionStock.vb" />
+    <Compile Include="DM\DMUsuario.vb" />
+    <Compile Include="DM\DMVendedor.vb" />
+    <Compile Include="Ejercicio.vb" />
+    <Compile Include="EstadoPedido.vb" />
+    <Compile Include="Evento.vb" />
+    <Compile Include="Factura.vb" />
+    <Compile Include="Familia.vb" />
+    <Compile Include="Federacion.vb" />
+    <Compile Include="Cuenta.vb" />
+    <Compile Include="DM\DMConceptoCuota.vb" />
+    <Compile Include="DM\DMClub.vb" />
+    <Compile Include="DM\DMComprobanteProveedor.vb" />
+    <Compile Include="DM\DMAsiento.vb" />
+    <Compile Include="DM\DMAsientoItem.vb" />
+    <Compile Include="DM\DMBanco.vb" />
+    <Compile Include="DM\DMCategoriaSocio.vb" />
+    <Compile Include="DM\DMCentroCosto.vb" />
+    <Compile Include="DM\DMComprobanteProveedorItem.vb" />
+    <Compile Include="DM\DMConceptoRetencion.vb" />
+    <Compile Include="DM\DMCondicionIva.vb" />
+    <Compile Include="DM\DMCondicionVenta.vb" />
+    <Compile Include="DM\DMCuenta.vb" />
+    <Compile Include="DM\DMEstadoCivil.vb" />
+    <Compile Include="DM\DMEstadoSocio.vb" />
+    <Compile Include="DM\DMFormaPago.vb" />
+    <Compile Include="DM\DMGanancias.vb" />
+    <Compile Include="DM\DMPagoCuotaSocio.vb" />
+    <Compile Include="DM\DMPagoProveedor.vb" />
+    <Compile Include="DM\DMPais.vb" />
+    <Compile Include="DM\DMProveedor.vb" />
+    <Compile Include="DM\DMProvincia.vb" />
+    <Compile Include="DM\DMResolucionGeneralSeguridadSocial.vb" />
+    <Compile Include="DM\DMRetencion.vb" />
+    <Compile Include="DM\DMRetencionPago.vb" />
+    <Compile Include="DM\DMRubroProveedor.vb" />
+    <Compile Include="DM\DMSexo.vb" />
+    <Compile Include="DM\DMSocio.vb" />
+    <Compile Include="DM\DMTipoComprobante.vb" />
+    <Compile Include="DM\DMTipoCuenta.vb" />
+    <Compile Include="DM\DMTipoDocumento.vb" />
+    <Compile Include="EstadoCivil.vb" />
+    <Compile Include="EstadoSocio.vb" />
+    <Compile Include="FondoFijo.vb" />
+    <Compile Include="FondoFijoItem.vb" />
+    <Compile Include="FormaPago.vb" />
+    <Compile Include="Ganancias.vb" />
+    <Compile Include="Kit.vb" />
+    <Compile Include="Localidad.vb" />
+    <Compile Include="MedioPago.vb" />
+    <Compile Include="Moneda.vb" />
+    <Compile Include="MovimientoCaja.vb" />
+    <Compile Include="MovimientoCajaCabe.vb" />
+    <Compile Include="MovimientoCajaItem.vb" />
+    <Compile Include="MovimientoStock.vb" />
+    <Compile Include="MultaSocioCabe.vb" />
+    <Compile Include="MultaSocioItem.vb" />
+    <Compile Include="OrigenCheque.vb" />
+    <Compile Include="Pago.vb" />
+    <Compile Include="PagoCuotaSocio.vb" />
+    <Compile Include="PagoProveedor.vb" />
+    <Compile Include="PagoSocio.vb" />
+    <Compile Include="Pais.vb" />
+    <Compile Include="Pantalla.vb" />
+    <Compile Include="PantallaUsuarioItem.vb" />
+    <Compile Include="Parametro.vb" />
+    <Compile Include="PedidoCabe.vb" />
+    <Compile Include="PedidoCabeCobroItem.vb" />
+    <Compile Include="PedidoItem.vb" />
+    <Compile Include="Producto.vb" />
+    <Compile Include="ProductoKit.vb" />
+    <Compile Include="Proveedor.vb" />
+    <Compile Include="Provincia.vb" />
+    <Compile Include="Remito.vb" />
+    <Compile Include="RemitoVistaClass.vb" />
+    <Compile Include="ResolucionGeneralSeguridadSocial.vb" />
+    <Compile Include="Retencion.vb" />
+    <Compile Include="RetencionPago.vb" />
+    <Compile Include="RubroProveedor.vb" />
+    <Compile Include="Sexo.vb" />
+    <Compile Include="Sistema.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Socio.vb" />
+    <Compile Include="TipoComprobante.vb" />
+    <Compile Include="TipoCuenta.vb" />
+    <Compile Include="TipoDocumento.vb" />
+    <Compile Include="TipoInterdeposito.vb" />
+    <Compile Include="TipoMovimiento.vb" />
+    <Compile Include="TipoOrden.vb" />
+    <Compile Include="UbicacionStock.vb" />
+    <Compile Include="Usuario.vb" />
+    <Compile Include="Utiles.vb" />
+    <Compile Include="Vendedor.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\_AccesoDatosV2\AccesoDatos.vbproj">
+      <Project>{53EF5125-D0E1-4ED9-9A7F-B320FD05B9AC}</Project>
+      <Name>AccesoDatos</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

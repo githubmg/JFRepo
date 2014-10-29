@@ -1,0 +1,4599 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ContableWeb
+</name>
+</assembly>
+<members>
+<member name="F:ContableWeb.Formulario_web1.frmMoneda">
+	<summary>
+Control frmMoneda.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.Formulario_web1.cmdNuevo">
+	<summary>
+Control cmdNuevo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.Formulario_web1.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.lblSocio">
+	<summary>
+Control lblSocio.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.frmPagoSocio">
+	<summary>
+Control frmPagoSocio.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.codigo">
+	<summary>
+Control codigo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.cmbConceptoCuota">
+	<summary>
+Control cmbConceptoCuota.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.txtAño">
+	<summary>
+Control txtAño.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.txtMonto">
+	<summary>
+Control txtMonto.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.cmdAgregarPagoCuota">
+	<summary>
+Control cmdAgregarPagoCuota.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.cmbMulta">
+	<summary>
+Control cmbMulta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.cmdAgregarPagoMulta">
+	<summary>
+Control cmdAgregarPagoMulta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.cmbFormaPago">
+	<summary>
+Control cmbFormaPago.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.txtImporteValor">
+	<summary>
+Control txtImporteValor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.divBanco">
+	<summary>
+Control divBanco.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.cmbBanco">
+	<summary>
+Control cmbBanco.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.divCheque">
+	<summary>
+Control divCheque.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.txtChequeSucursal">
+	<summary>
+Control txtChequeSucursal.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.txtChequeNumero">
+	<summary>
+Control txtChequeNumero.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.txtChequeFechaCobro">
+	<summary>
+Control txtChequeFechaCobro.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.txtChequeFechaCobroExt">
+	<summary>
+Control txtChequeFechaCobroExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.divInterdeposito">
+	<summary>
+Control divInterdeposito.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.txtInterdepositoFecha">
+	<summary>
+Control txtInterdepositoFecha.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.txtInterdepositoFechaExt">
+	<summary>
+Control txtInterdepositoFechaExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.cmbTipoInterdeposito">
+	<summary>
+Control cmbTipoInterdeposito.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.txtInterdepositoBoleta">
+	<summary>
+Control txtInterdepositoBoleta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.txtInterdepositoTerminalBancaria">
+	<summary>
+Control txtInterdepositoTerminalBancaria.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.divTarjeta">
+	<summary>
+Control divTarjeta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.txtTarjetaNumero">
+	<summary>
+Control txtTarjetaNumero.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.txtTarjetaCupon">
+	<summary>
+Control txtTarjetaCupon.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.txtTarjetaAutorizacion">
+	<summary>
+Control txtTarjetaAutorizacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.txtTarjetaCuotas">
+	<summary>
+Control txtTarjetaCuotas.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.cmdAgregarValor">
+	<summary>
+Control cmdAgregarValor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.divErrorValores">
+	<summary>
+Control divErrorValores.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.lblErrorValores">
+	<summary>
+Control lblErrorValores.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.grillaValores">
+	<summary>
+Control grillaValores.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.cmdGuardar">
+	<summary>
+Control cmdGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.cmdCancelar">
+	<summary>
+Control cmdCancelar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoSocio.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsientoEdit.frmCuentaEdit">
+	<summary>
+Control frmCuentaEdit.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsientoEdit.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsientoEdit.chkEsAsientoTipo">
+	<summary>
+Control chkEsAsientoTipo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsientoEdit.txtFecha">
+	<summary>
+Control txtFecha.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsientoEdit.cmbTipoComprobante">
+	<summary>
+Control cmbTipoComprobante.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsientoEdit.txtNumeroComprobante">
+	<summary>
+Control txtNumeroComprobante.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsientoEdit.txtConcepto">
+	<summary>
+Control txtConcepto.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsientoEdit.txtObservaciones">
+	<summary>
+Control txtObservaciones.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsientoEdit.txtCuenta">
+	<summary>
+Control txtCuenta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsientoEdit.txtDebe">
+	<summary>
+Control txtDebe.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsientoEdit.txtHaber">
+	<summary>
+Control txtHaber.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsientoEdit.cmdAgregar">
+	<summary>
+Control cmdAgregar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsientoEdit.divErrorItem">
+	<summary>
+Control divErrorItem.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsientoEdit.lblErrorItem">
+	<summary>
+Control lblErrorItem.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsientoEdit.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsientoEdit.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsientoEdit.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsientoEdit.cmdGuardar">
+	<summary>
+Control cmdGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsientoEdit.cmdCancelar">
+	<summary>
+Control cmdCancelar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsientoEdit.AutoCompleteExtender1">
+	<summary>
+Control AutoCompleteExtender1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsientoEdit.txtFechaExt">
+	<summary>
+Control txtFechaExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocio.frmSocio">
+	<summary>
+Control frmSocio.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocio.cmdNuevo">
+	<summary>
+Control cmdNuevo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocio.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteCtaCte.lblTitulo">
+	<summary>
+Control lblTitulo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteCtaCte.frmCtaCteSocio">
+	<summary>
+Control frmCtaCteSocio.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteCtaCte.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteCtaCte.txtFechaDesde">
+	<summary>
+Control txtFechaDesde.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteCtaCte.txtFechaDesdeExt">
+	<summary>
+Control txtFechaDesdeExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteCtaCte.txtFechaHasta">
+	<summary>
+Control txtFechaHasta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteCtaCte.txtFechaHastaExt">
+	<summary>
+Control txtFechaHastaExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteCtaCte.cmdVerCtaCte">
+	<summary>
+Control cmdVerCtaCte.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteCtaCte.cmdVolver">
+	<summary>
+Control cmdVolver.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteCtaCte.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteCtaCte.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteCtaCte.divExportacion">
+	<summary>
+Control divExportacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteCtaCte.lnkExpoPDF">
+	<summary>
+Control lnkExpoPDF.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteCtaCte.lnkExpoXLS">
+	<summary>
+Control lnkExpoXLS.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteCtaCte.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporte.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporte.ReportViewer1">
+	<summary>
+Control ReportViewer1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.index.login">
+	<summary>
+Control login.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.index.ScriptManager1">
+	<summary>
+Control ScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.index.UpdatePanel1">
+	<summary>
+Control UpdatePanel1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.index.divError">
+	<summary>
+Control divError.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.index.username">
+	<summary>
+Control username.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.index.password">
+	<summary>
+Control password.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.index.cmdIngresar">
+	<summary>
+Control cmdIngresar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFondoFijo.frmEjercicio">
+	<summary>
+Control frmEjercicio.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFondoFijo.cmdNuevo">
+	<summary>
+Control cmdNuevo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFondoFijo.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="T:ContableWeb.DSContableWeb.CtaCteProveedorVistaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.CtaCteSocioVistaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.CtaCteVistaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptComprobanteOrdenPago_comprobantesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptComprobanteOrdenPago_retencionesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptComprobanteOrdenPago_valoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptComprobanteRetencionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptLibroDiarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptSumasSaldosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptPlanDeCuentasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.CtaCteProveedorVistaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.CtaCteSocioVistaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.CtaCteVistaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptComprobanteOrdenPago_comprobantesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptComprobanteOrdenPago_retencionesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptComprobanteOrdenPago_valoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptComprobanteRetencionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptLibroDiarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptSumasSaldosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptPlanDeCuentasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.CtaCteProveedorVistaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.CtaCteSocioVistaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.CtaCteVistaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptComprobanteOrdenPago_comprobantesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptComprobanteOrdenPago_retencionesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptComprobanteOrdenPago_valoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptComprobanteRetencionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptLibroDiarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptSumasSaldosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptPlanDeCuentasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.CtaCteProveedorVistaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.CtaCteSocioVistaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.CtaCteVista">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.rptComprobanteOrdenPago_comprobantes">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.rptComprobanteOrdenPago_retencionesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.rptComprobanteOrdenPago_valores">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.rptComprobanteRetencionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.rptLibroDiarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.rptSumasSaldosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.rptPlanDeCuentasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ContableWeb.DSContableWebTableAdapters.TableAdapterManager.UpdateUpdatedRows(ContableWeb.DSContableWeb,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ContableWeb.DSContableWebTableAdapters.TableAdapterManager.UpdateInsertedRows(ContableWeb.DSContableWeb,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ContableWeb.DSContableWebTableAdapters.TableAdapterManager.UpdateDeletedRows(ContableWeb.DSContableWeb,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ContableWeb.DSContableWebTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ContableWeb.DSContableWebTableAdapters.TableAdapterManager.UpdateAll(ContableWeb.DSContableWeb)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="F:ContableWeb.frmAsiento.frmAsiento">
+	<summary>
+Control frmAsiento.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsiento.cmdNuevo">
+	<summary>
+Control cmdNuevo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsiento.cmbAsientoTipo">
+	<summary>
+Control cmbAsientoTipo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmAsiento.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteSumasSaldos.lblTitulo">
+	<summary>
+Control lblTitulo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteSumasSaldos.frmCtaCteSocio">
+	<summary>
+Control frmCtaCteSocio.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteSumasSaldos.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteSumasSaldos.txtFechaDesde">
+	<summary>
+Control txtFechaDesde.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteSumasSaldos.txtFechaDesdeExt">
+	<summary>
+Control txtFechaDesdeExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteSumasSaldos.txtFechaHasta">
+	<summary>
+Control txtFechaHasta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteSumasSaldos.txtFechaHastaExt">
+	<summary>
+Control txtFechaHastaExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteSumasSaldos.cmdVerReporte">
+	<summary>
+Control cmdVerReporte.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteSumasSaldos.cmdVolver">
+	<summary>
+Control cmdVolver.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteSumasSaldos.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteSumasSaldos.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteSumasSaldos.divExportacion">
+	<summary>
+Control divExportacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteSumasSaldos.lnkExpoPDF">
+	<summary>
+Control lnkExpoPDF.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteSumasSaldos.lnkExpoXLS">
+	<summary>
+Control lnkExpoXLS.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteSumasSaldos.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCotizacion.frmCotizacion">
+	<summary>
+Control frmCotizacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCotizacion.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCotizacion.txtCotizacion">
+	<summary>
+Control txtCotizacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCotizacion.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCotizacion.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCotizacion.cmdGuardar">
+	<summary>
+Control cmdGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCotizacion.cmdCancelar">
+	<summary>
+Control cmdCancelar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.frmCuentaEdit">
+	<summary>
+Control frmCuentaEdit.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtRazonSocial">
+	<summary>
+Control txtRazonSocial.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.cmbRubroProveedor">
+	<summary>
+Control cmbRubroProveedor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtDireccion">
+	<summary>
+Control txtDireccion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtTelefono">
+	<summary>
+Control txtTelefono.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtFax">
+	<summary>
+Control txtFax.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtEmail">
+	<summary>
+Control txtEmail.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtWeb">
+	<summary>
+Control txtWeb.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.cmbProvincia">
+	<summary>
+Control cmbProvincia.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtLocalidad">
+	<summary>
+Control txtLocalidad.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtCodigoPostal">
+	<summary>
+Control txtCodigoPostal.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.cmbCondicionIva">
+	<summary>
+Control cmbCondicionIva.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtCuit">
+	<summary>
+Control txtCuit.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtChequesALaOrdenDe">
+	<summary>
+Control txtChequesALaOrdenDe.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.chkInscriptoGanancias">
+	<summary>
+Control chkInscriptoGanancias.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.chkRecibeFacturas">
+	<summary>
+Control chkRecibeFacturas.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.chkSubdiario">
+	<summary>
+Control chkSubdiario.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtCaiNumero">
+	<summary>
+Control txtCaiNumero.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtCaiVencimiento">
+	<summary>
+Control txtCaiVencimiento.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtCaiVencimientoExt">
+	<summary>
+Control txtCaiVencimientoExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtCuentaCBU">
+	<summary>
+Control txtCuentaCBU.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.cmbCuentaBanco">
+	<summary>
+Control cmbCuentaBanco.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtRetSeguridadSocialPorcentaje">
+	<summary>
+Control txtRetSeguridadSocialPorcentaje.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.cmbRetSeguridadSocialResolucionGeneral">
+	<summary>
+Control cmbRetSeguridadSocialResolucionGeneral.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.cmbGanancias">
+	<summary>
+Control cmbGanancias.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtRetIIBBPorcentaje">
+	<summary>
+Control txtRetIIBBPorcentaje.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtNumeroIIBB">
+	<summary>
+Control txtNumeroIIBB.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.chkRetieneIva">
+	<summary>
+Control chkRetieneIva.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtCuentaResultado">
+	<summary>
+Control txtCuentaResultado.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtCuentaPatrimonial">
+	<summary>
+Control txtCuentaPatrimonial.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.AutoCompleteExtender1">
+	<summary>
+Control AutoCompleteExtender1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.AutoCompleteExtender2">
+	<summary>
+Control AutoCompleteExtender2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.cmdGuardar">
+	<summary>
+Control cmdGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.cmdCancelar">
+	<summary>
+Control cmdCancelar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.frmComprobanteProveedor">
+	<summary>
+Control frmComprobanteProveedor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.cmbTipoComprobante">
+	<summary>
+Control cmbTipoComprobante.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtPuntoVenta">
+	<summary>
+Control txtPuntoVenta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtNumeroFactura">
+	<summary>
+Control txtNumeroFactura.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtFechaComprobante">
+	<summary>
+Control txtFechaComprobante.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtFechaComprobanteExt">
+	<summary>
+Control txtFechaComprobanteExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtFechaVencimiento">
+	<summary>
+Control txtFechaVencimiento.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtFechaVencimientoExt">
+	<summary>
+Control txtFechaVencimientoExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtFechaserviciosDesde">
+	<summary>
+Control txtFechaserviciosDesde.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtFechaserviciosDesdeExt">
+	<summary>
+Control txtFechaserviciosDesdeExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtFechaserviciosHasta">
+	<summary>
+Control txtFechaserviciosHasta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtFechaserviciosHastaExt">
+	<summary>
+Control txtFechaserviciosHastaExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtCondicionPago">
+	<summary>
+Control txtCondicionPago.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtDetalle">
+	<summary>
+Control txtDetalle.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.up1">
+	<summary>
+Control up1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtDescripcionItem">
+	<summary>
+Control txtDescripcionItem.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtComentarioItem">
+	<summary>
+Control txtComentarioItem.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtPrecioUnitarioItem">
+	<summary>
+Control txtPrecioUnitarioItem.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtCantidadItem">
+	<summary>
+Control txtCantidadItem.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtIVA">
+	<summary>
+Control txtIVA.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtDescuento">
+	<summary>
+Control txtDescuento.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtMotivoDescuento">
+	<summary>
+Control txtMotivoDescuento.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.cmdAgregar">
+	<summary>
+Control cmdAgregar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.divErrorItem">
+	<summary>
+Control divErrorItem.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.lblErrorItem">
+	<summary>
+Control lblErrorItem.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.cmdGuardar">
+	<summary>
+Control cmdGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.cmdCancelar">
+	<summary>
+Control cmdCancelar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFondoFijoEdit.frmClubEdit">
+	<summary>
+Control frmClubEdit.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFondoFijoEdit.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFondoFijoEdit.txtFecha">
+	<summary>
+Control txtFecha.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFondoFijoEdit.txtCuenta">
+	<summary>
+Control txtCuenta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFondoFijoEdit.txtMonto">
+	<summary>
+Control txtMonto.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFondoFijoEdit.txtObservacionesItem">
+	<summary>
+Control txtObservacionesItem.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFondoFijoEdit.cmdAgregar">
+	<summary>
+Control cmdAgregar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFondoFijoEdit.divErrorItem">
+	<summary>
+Control divErrorItem.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFondoFijoEdit.lblErrorItem">
+	<summary>
+Control lblErrorItem.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFondoFijoEdit.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFondoFijoEdit.cmbFormaPago">
+	<summary>
+Control cmbFormaPago.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFondoFijoEdit.txtObservaciones">
+	<summary>
+Control txtObservaciones.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFondoFijoEdit.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFondoFijoEdit.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFondoFijoEdit.cmdGuardar">
+	<summary>
+Control cmdGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFondoFijoEdit.cmdCancelar">
+	<summary>
+Control cmdCancelar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFondoFijoEdit.txtFechaExt">
+	<summary>
+Control txtFechaExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFondoFijoEdit.AutoCompleteExtender1">
+	<summary>
+Control AutoCompleteExtender1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaPago.frmFormaPago">
+	<summary>
+Control frmFormaPago.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaPago.cmdNuevo">
+	<summary>
+Control cmdNuevo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaPago.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.frmFederacionEdit">
+	<summary>
+Control frmFederacionEdit.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.txtDescripcion">
+	<summary>
+Control txtDescripcion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.chkActivo">
+	<summary>
+Control chkActivo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.txtcantidadClubesesAfiliados">
+	<summary>
+Control txtcantidadClubesesAfiliados.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.txtcuit">
+	<summary>
+Control txtcuit.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.txtfechaEstatuto">
+	<summary>
+Control txtfechaEstatuto.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.txtfechaAlta">
+	<summary>
+Control txtfechaAlta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.cmbCondicionIva">
+	<summary>
+Control cmbCondicionIva.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.txtdireccionAdministracion">
+	<summary>
+Control txtdireccionAdministracion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.cmbProvinciaAdministracion">
+	<summary>
+Control cmbProvinciaAdministracion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.txtlocalidadAdministracion">
+	<summary>
+Control txtlocalidadAdministracion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.txttelefonoAdministracion">
+	<summary>
+Control txttelefonoAdministracion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.txtdireccionFederacion">
+	<summary>
+Control txtdireccionFederacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.cmbProvinciaFederacion">
+	<summary>
+Control cmbProvinciaFederacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.txtlocalidadFederacion">
+	<summary>
+Control txtlocalidadFederacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.txttelefonoFederacion">
+	<summary>
+Control txttelefonoFederacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.txtweb">
+	<summary>
+Control txtweb.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.txtcorreo">
+	<summary>
+Control txtcorreo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.txtcontacto">
+	<summary>
+Control txtcontacto.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.txttelefonoContacto">
+	<summary>
+Control txttelefonoContacto.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.txtcelularContacto">
+	<summary>
+Control txtcelularContacto.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.cmdGuardar">
+	<summary>
+Control cmdGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacionEdit.cmdCancelar">
+	<summary>
+Control cmdCancelar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.frmCuentaEdit">
+	<summary>
+Control frmCuentaEdit.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.txtNombre">
+	<summary>
+Control txtNombre.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.txtFechaNacimiento">
+	<summary>
+Control txtFechaNacimiento.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.txtFechaNacimientoExt">
+	<summary>
+Control txtFechaNacimientoExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.up1">
+	<summary>
+Control up1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.txtCategoria">
+	<summary>
+Control txtCategoria.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.chkEsProfesional">
+	<summary>
+Control chkEsProfesional.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.txtClasificacionSingle">
+	<summary>
+Control txtClasificacionSingle.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.txtClasificacionDobles">
+	<summary>
+Control txtClasificacionDobles.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.cmbTipoDocumento">
+	<summary>
+Control cmbTipoDocumento.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.txtNumeroDocumento">
+	<summary>
+Control txtNumeroDocumento.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.cmbSexo">
+	<summary>
+Control cmbSexo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.cmbEstadoCivil">
+	<summary>
+Control cmbEstadoCivil.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.cmbNacionalidad">
+	<summary>
+Control cmbNacionalidad.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.cmbProvincia">
+	<summary>
+Control cmbProvincia.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.txtLocalidad">
+	<summary>
+Control txtLocalidad.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.txtDireccion">
+	<summary>
+Control txtDireccion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.txtCodigoPostal">
+	<summary>
+Control txtCodigoPostal.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.txtTelefono">
+	<summary>
+Control txtTelefono.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.txtCelular">
+	<summary>
+Control txtCelular.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.txtEmail">
+	<summary>
+Control txtEmail.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.txtWeb">
+	<summary>
+Control txtWeb.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.txtFederacion">
+	<summary>
+Control txtFederacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.txtClub">
+	<summary>
+Control txtClub.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.txtFechaIngreso">
+	<summary>
+Control txtFechaIngreso.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.txtFechaIngresoExt">
+	<summary>
+Control txtFechaIngresoExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.cmbEstadoSocio">
+	<summary>
+Control cmbEstadoSocio.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.cmdGuardar">
+	<summary>
+Control cmdGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.cmdCancelar">
+	<summary>
+Control cmdCancelar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.AutoCompleteExtender1">
+	<summary>
+Control AutoCompleteExtender1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmSocioEdit.AutoCompleteExtender2">
+	<summary>
+Control AutoCompleteExtender2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmEjercicio.frmEjercicio">
+	<summary>
+Control frmEjercicio.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmEjercicio.cmdNuevo">
+	<summary>
+Control cmdNuevo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmEjercicio.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmOrdenesDePago.lblProveedor">
+	<summary>
+Control lblProveedor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmOrdenesDePago.frmCtaCteProveedor">
+	<summary>
+Control frmCtaCteProveedor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmOrdenesDePago.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmOrdenesDePago.cmdNuevo">
+	<summary>
+Control cmdNuevo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmOrdenesDePago.txtFechaDesde">
+	<summary>
+Control txtFechaDesde.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmOrdenesDePago.txtFechaDesdeExt">
+	<summary>
+Control txtFechaDesdeExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmOrdenesDePago.txtFechaHasta">
+	<summary>
+Control txtFechaHasta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmOrdenesDePago.txtFechaHastaExt">
+	<summary>
+Control txtFechaHastaExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmOrdenesDePago.cmdVerCtaCte">
+	<summary>
+Control cmdVerCtaCte.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmOrdenesDePago.cmdVolver">
+	<summary>
+Control cmdVolver.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmOrdenesDePago.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmOrdenesDePago.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmOrdenesDePago.divExportacion">
+	<summary>
+Control divExportacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmOrdenesDePago.lnkExpoPDF">
+	<summary>
+Control lnkExpoPDF.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmOrdenesDePago.lnkExpoXLS">
+	<summary>
+Control lnkExpoXLS.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmOrdenesDePago.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteSocio.lblSocio">
+	<summary>
+Control lblSocio.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteSocio.frmCtaCteSocio">
+	<summary>
+Control frmCtaCteSocio.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteSocio.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteSocio.txtFechaDesde">
+	<summary>
+Control txtFechaDesde.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteSocio.txtFechaDesdeExt">
+	<summary>
+Control txtFechaDesdeExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteSocio.txtFechaHasta">
+	<summary>
+Control txtFechaHasta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteSocio.txtFechaHastaExt">
+	<summary>
+Control txtFechaHastaExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteSocio.cmdVerCtaCte">
+	<summary>
+Control cmdVerCtaCte.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteSocio.cmdVolver">
+	<summary>
+Control cmdVolver.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteSocio.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteSocio.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteSocio.divExportacion">
+	<summary>
+Control divExportacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteSocio.lnkExpoPDF">
+	<summary>
+Control lnkExpoPDF.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteSocio.lnkExpoXLS">
+	<summary>
+Control lnkExpoXLS.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteSocio.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.lblProveedor">
+	<summary>
+Control lblProveedor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.frmComprobanteProveedor">
+	<summary>
+Control frmComprobanteProveedor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.codigo">
+	<summary>
+Control codigo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.grillaComprobantes">
+	<summary>
+Control grillaComprobantes.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.grillaComprobantesSeleccionados">
+	<summary>
+Control grillaComprobantesSeleccionados.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.divErrorComprobantes">
+	<summary>
+Control divErrorComprobantes.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.lblErrorComprobantes">
+	<summary>
+Control lblErrorComprobantes.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.cmbRetencion">
+	<summary>
+Control cmbRetencion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.cmbConceptoRetencion">
+	<summary>
+Control cmbConceptoRetencion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.txtImpoteRetencion">
+	<summary>
+Control txtImpoteRetencion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.cmdAgregarRetencion">
+	<summary>
+Control cmdAgregarRetencion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.divErrorRetenciones">
+	<summary>
+Control divErrorRetenciones.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.lblErrorRetenciones">
+	<summary>
+Control lblErrorRetenciones.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.GrillaRetenciones">
+	<summary>
+Control GrillaRetenciones.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.cmbFormaPago">
+	<summary>
+Control cmbFormaPago.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.txtImporteValor">
+	<summary>
+Control txtImporteValor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.divBanco">
+	<summary>
+Control divBanco.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.cmbBanco">
+	<summary>
+Control cmbBanco.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.divCheque">
+	<summary>
+Control divCheque.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.txtChequeSucursal">
+	<summary>
+Control txtChequeSucursal.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.txtChequeNumero">
+	<summary>
+Control txtChequeNumero.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.txtChequeFechaCobro">
+	<summary>
+Control txtChequeFechaCobro.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.txtChequeFechaCobroExt">
+	<summary>
+Control txtChequeFechaCobroExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.divInterdeposito">
+	<summary>
+Control divInterdeposito.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.txtInterdepositoFecha">
+	<summary>
+Control txtInterdepositoFecha.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.txtInterdepositoFechaExt">
+	<summary>
+Control txtInterdepositoFechaExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.cmbTipoInterdeposito">
+	<summary>
+Control cmbTipoInterdeposito.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.txtInterdepositoBoleta">
+	<summary>
+Control txtInterdepositoBoleta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.txtInterdepositoTerminalBancaria">
+	<summary>
+Control txtInterdepositoTerminalBancaria.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.divTarjeta">
+	<summary>
+Control divTarjeta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.txtTarjetaNumero">
+	<summary>
+Control txtTarjetaNumero.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.txtTarjetaCupon">
+	<summary>
+Control txtTarjetaCupon.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.txtTarjetaAutorizacion">
+	<summary>
+Control txtTarjetaAutorizacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.txtTarjetaCuotas">
+	<summary>
+Control txtTarjetaCuotas.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.cmdAgregarValor">
+	<summary>
+Control cmdAgregarValor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.grillaValores">
+	<summary>
+Control grillaValores.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.divErrorValores">
+	<summary>
+Control divErrorValores.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.lblErrorValores">
+	<summary>
+Control lblErrorValores.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.GrillaAdelantos">
+	<summary>
+Control GrillaAdelantos.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.GrillaAdelantosSeleccionados">
+	<summary>
+Control GrillaAdelantosSeleccionados.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.divErrorAdelantos">
+	<summary>
+Control divErrorAdelantos.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.lblErrorAdelantos">
+	<summary>
+Control lblErrorAdelantos.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.lblTotalComprobantes">
+	<summary>
+Control lblTotalComprobantes.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.lblTotalRetenciones">
+	<summary>
+Control lblTotalRetenciones.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.lblTotalValores">
+	<summary>
+Control lblTotalValores.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.lblTotalAdelantos">
+	<summary>
+Control lblTotalAdelantos.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.lblFaltante">
+	<summary>
+Control lblFaltante.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.cmdGuardar">
+	<summary>
+Control cmdGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmPagoProveedor.cmdCancelar">
+	<summary>
+Control cmdCancelar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCuenta.frmCuenta">
+	<summary>
+Control frmCuenta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCuenta.cmdNuevaCuenta">
+	<summary>
+Control cmdNuevaCuenta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCuenta.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.ContableWeb.ContentTitulo">
+	<summary>
+Control ContentTitulo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.ContableWeb.contentCuerpo">
+	<summary>
+Control contentCuerpo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.frmClubEdit">
+	<summary>
+Control frmClubEdit.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.txtDescripcion">
+	<summary>
+Control txtDescripcion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.chkPleno">
+	<summary>
+Control chkPleno.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.chkActivo">
+	<summary>
+Control chkActivo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.txtcantidadCanchas">
+	<summary>
+Control txtcantidadCanchas.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.txtcuit">
+	<summary>
+Control txtcuit.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.txtfechaEstatuto">
+	<summary>
+Control txtfechaEstatuto.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.txtfechaAlta">
+	<summary>
+Control txtfechaAlta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.cmbCondicionIva">
+	<summary>
+Control cmbCondicionIva.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.txtdireccionAdministracion">
+	<summary>
+Control txtdireccionAdministracion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.cmbProvinciaAdministracion">
+	<summary>
+Control cmbProvinciaAdministracion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.txtlocalidadAdministracion">
+	<summary>
+Control txtlocalidadAdministracion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.txttelefonoAdministracion">
+	<summary>
+Control txttelefonoAdministracion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.txtdireccionClub">
+	<summary>
+Control txtdireccionClub.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.cmbProvinciaClub">
+	<summary>
+Control cmbProvinciaClub.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.txtlocalidadClub">
+	<summary>
+Control txtlocalidadClub.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.txttelefonoClub">
+	<summary>
+Control txttelefonoClub.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.txtweb">
+	<summary>
+Control txtweb.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.txtcorreo">
+	<summary>
+Control txtcorreo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.txtcontacto">
+	<summary>
+Control txtcontacto.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.txttelefonoContacto">
+	<summary>
+Control txttelefonoContacto.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.txtcelularContacto">
+	<summary>
+Control txtcelularContacto.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.cmdGuardar">
+	<summary>
+Control cmdGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.cmdCancelar">
+	<summary>
+Control cmdCancelar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.txtfechaEstatutoExt">
+	<summary>
+Control txtfechaEstatutoExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClubEdit.txtfechaAltaExt">
+	<summary>
+Control txtfechaAltaExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClub.frmClub">
+	<summary>
+Control frmClub.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClub.cmdNuevo">
+	<summary>
+Control cmdNuevo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmClub.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmMonedaEdit.frmMonedaEdit">
+	<summary>
+Control frmMonedaEdit.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmMonedaEdit.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmMonedaEdit.txtDescripcion">
+	<summary>
+Control txtDescripcion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmMonedaEdit.txtSimbolo">
+	<summary>
+Control txtSimbolo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmMonedaEdit.txtAbreviatura">
+	<summary>
+Control txtAbreviatura.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmMonedaEdit.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmMonedaEdit.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmMonedaEdit.cmdGuardar">
+	<summary>
+Control cmdGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmMonedaEdit.cmdCancelar">
+	<summary>
+Control cmdCancelar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.lblProveedor">
+	<summary>
+Control lblProveedor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.lblTituloComprobante">
+	<summary>
+Control lblTituloComprobante.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.frmComprobanteProveedor">
+	<summary>
+Control frmComprobanteProveedor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.divDatosComprobante">
+	<summary>
+Control divDatosComprobante.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.cmbTipoComprobante">
+	<summary>
+Control cmbTipoComprobante.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.txtPuntoVenta">
+	<summary>
+Control txtPuntoVenta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.txtNumeroFactura">
+	<summary>
+Control txtNumeroFactura.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.txtFechaComprobante">
+	<summary>
+Control txtFechaComprobante.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.txtFechaComprobanteExt">
+	<summary>
+Control txtFechaComprobanteExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.cmbCondicionVenta">
+	<summary>
+Control cmbCondicionVenta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.txtDetalle">
+	<summary>
+Control txtDetalle.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.txtDescripcionItem">
+	<summary>
+Control txtDescripcionItem.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.txtObservacionesItem">
+	<summary>
+Control txtObservacionesItem.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.txtPrecioUnitarioItem">
+	<summary>
+Control txtPrecioUnitarioItem.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.txtCantidadItem">
+	<summary>
+Control txtCantidadItem.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.txtIVA">
+	<summary>
+Control txtIVA.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.cmdAgregar">
+	<summary>
+Control cmdAgregar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.divErrorItem">
+	<summary>
+Control divErrorItem.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.lblErrorItem">
+	<summary>
+Control lblErrorItem.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.cmdGuardar">
+	<summary>
+Control cmdGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobanteProveedor.cmdCancelar">
+	<summary>
+Control cmdCancelar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmEjercicioEdit.frmClubEdit">
+	<summary>
+Control frmClubEdit.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmEjercicioEdit.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmEjercicioEdit.txtFechaInicio">
+	<summary>
+Control txtFechaInicio.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmEjercicioEdit.txtFechaFin">
+	<summary>
+Control txtFechaFin.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmEjercicioEdit.chkActivo">
+	<summary>
+Control chkActivo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmEjercicioEdit.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmEjercicioEdit.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmEjercicioEdit.cmdGuardar">
+	<summary>
+Control cmdGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmEjercicioEdit.cmdCancelar">
+	<summary>
+Control cmdCancelar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmEjercicioEdit.txtFechaInicioExt">
+	<summary>
+Control txtFechaInicioExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmEjercicioEdit.txtFechaFinExt">
+	<summary>
+Control txtFechaFinExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRegistroMultas.frmCuentaEdit">
+	<summary>
+Control frmCuentaEdit.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRegistroMultas.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRegistroMultas.txtFecha">
+	<summary>
+Control txtFecha.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRegistroMultas.txtNombreTorneo">
+	<summary>
+Control txtNombreTorneo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRegistroMultas.txtClub">
+	<summary>
+Control txtClub.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRegistroMultas.up1">
+	<summary>
+Control up1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRegistroMultas.txtDocumentoOrganizador">
+	<summary>
+Control txtDocumentoOrganizador.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRegistroMultas.cmdBuscarSocio">
+	<summary>
+Control cmdBuscarSocio.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRegistroMultas.txtNombreOrganizador">
+	<summary>
+Control txtNombreOrganizador.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRegistroMultas.txtMontoMulta">
+	<summary>
+Control txtMontoMulta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRegistroMultas.txtNumeroDocumentoSocio">
+	<summary>
+Control txtNumeroDocumentoSocio.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRegistroMultas.cmdAgregar">
+	<summary>
+Control cmdAgregar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRegistroMultas.divErrorItem">
+	<summary>
+Control divErrorItem.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRegistroMultas.lblErrorItem">
+	<summary>
+Control lblErrorItem.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRegistroMultas.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRegistroMultas.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRegistroMultas.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRegistroMultas.cmdGuardar">
+	<summary>
+Control cmdGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRegistroMultas.cmdCancelar">
+	<summary>
+Control cmdCancelar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRegistroMultas.txtFechaExt">
+	<summary>
+Control txtFechaExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRegistroMultas.AutoCompleteExtender1">
+	<summary>
+Control AutoCompleteExtender1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaPagoEdit.frmClubEdit">
+	<summary>
+Control frmClubEdit.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaPagoEdit.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaPagoEdit.txtDescripcion">
+	<summary>
+Control txtDescripcion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaPagoEdit.txtCuenta">
+	<summary>
+Control txtCuenta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaPagoEdit.chkEsCheque">
+	<summary>
+Control chkEsCheque.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaPagoEdit.chkEsTarjeta">
+	<summary>
+Control chkEsTarjeta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaPagoEdit.chkEsInterdeposito">
+	<summary>
+Control chkEsInterdeposito.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaPagoEdit.chkUsadoParaFondoFijo">
+	<summary>
+Control chkUsadoParaFondoFijo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaPagoEdit.cmbMoneda">
+	<summary>
+Control cmbMoneda.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaPagoEdit.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaPagoEdit.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaPagoEdit.cmdGuardar">
+	<summary>
+Control cmdGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaPagoEdit.cmdCancelar">
+	<summary>
+Control cmdCancelar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaPagoEdit.AutoCompleteExtender1">
+	<summary>
+Control AutoCompleteExtender1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmImprimirComprobante.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacion.frmFederacion">
+	<summary>
+Control frmFederacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacion.cmdNuevo">
+	<summary>
+Control cmdNuevo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFederacion.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteProveedor.lblProveedor">
+	<summary>
+Control lblProveedor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteProveedor.frmCtaCteProveedor">
+	<summary>
+Control frmCtaCteProveedor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteProveedor.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteProveedor.txtFechaDesde">
+	<summary>
+Control txtFechaDesde.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteProveedor.txtFechaDesdeExt">
+	<summary>
+Control txtFechaDesdeExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteProveedor.txtFechaHasta">
+	<summary>
+Control txtFechaHasta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteProveedor.txtFechaHastaExt">
+	<summary>
+Control txtFechaHastaExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteProveedor.cmdVerCtaCte">
+	<summary>
+Control cmdVerCtaCte.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteProveedor.cmdVolver">
+	<summary>
+Control cmdVolver.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteProveedor.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteProveedor.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteProveedor.divExportacion">
+	<summary>
+Control divExportacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteProveedor.lnkExpoPDF">
+	<summary>
+Control lnkExpoPDF.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteProveedor.lnkExpoXLS">
+	<summary>
+Control lnkExpoXLS.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCtaCteProveedor.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedor.frmProveedor">
+	<summary>
+Control frmProveedor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedor.cmdNuevo">
+	<summary>
+Control cmdNuevo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedor.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReportePlanDeCuentas.lblTitulo">
+	<summary>
+Control lblTitulo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReportePlanDeCuentas.frmCtaCteSocio">
+	<summary>
+Control frmCtaCteSocio.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReportePlanDeCuentas.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReportePlanDeCuentas.txtCuentaDesde">
+	<summary>
+Control txtCuentaDesde.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReportePlanDeCuentas.txtCuentaHasta">
+	<summary>
+Control txtCuentaHasta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReportePlanDeCuentas.cmdVerReporte">
+	<summary>
+Control cmdVerReporte.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReportePlanDeCuentas.cmdVolver">
+	<summary>
+Control cmdVolver.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReportePlanDeCuentas.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReportePlanDeCuentas.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReportePlanDeCuentas.divExportacion">
+	<summary>
+Control divExportacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReportePlanDeCuentas.lnkExpoPDF">
+	<summary>
+Control lnkExpoPDF.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReportePlanDeCuentas.lnkExpoXLS">
+	<summary>
+Control lnkExpoXLS.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReportePlanDeCuentas.AutoCompleteExtender1">
+	<summary>
+Control AutoCompleteExtender1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReportePlanDeCuentas.AutoCompleteExtender2">
+	<summary>
+Control AutoCompleteExtender2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReportePlanDeCuentas.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteLibroDiario.lblTitulo">
+	<summary>
+Control lblTitulo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteLibroDiario.frmCtaCteSocio">
+	<summary>
+Control frmCtaCteSocio.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteLibroDiario.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteLibroDiario.txtFechaDesde">
+	<summary>
+Control txtFechaDesde.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteLibroDiario.txtFechaDesdeExt">
+	<summary>
+Control txtFechaDesdeExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteLibroDiario.txtFechaHasta">
+	<summary>
+Control txtFechaHasta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteLibroDiario.txtFechaHastaExt">
+	<summary>
+Control txtFechaHastaExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteLibroDiario.cmdVerReporte">
+	<summary>
+Control cmdVerReporte.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteLibroDiario.cmdVolver">
+	<summary>
+Control cmdVolver.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteLibroDiario.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteLibroDiario.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteLibroDiario.divExportacion">
+	<summary>
+Control divExportacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteLibroDiario.lnkExpoPDF">
+	<summary>
+Control lnkExpoPDF.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteLibroDiario.lnkExpoXLS">
+	<summary>
+Control lnkExpoXLS.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteLibroDiario.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteMultas.frmReporteMultas">
+	<summary>
+Control frmReporteMultas.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteMultas.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteMultas.txtClub">
+	<summary>
+Control txtClub.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteMultas.cmdBuscarMultas">
+	<summary>
+Control cmdBuscarMultas.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteMultas.cmbMultaSocioCabe">
+	<summary>
+Control cmbMultaSocioCabe.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteMultas.cmdVerDetalle">
+	<summary>
+Control cmdVerDetalle.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteMultas.up1">
+	<summary>
+Control up1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteMultas.grillaTotales">
+	<summary>
+Control grillaTotales.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteMultas.grillaSocios">
+	<summary>
+Control grillaSocios.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteMultas.cmdAceptar">
+	<summary>
+Control cmdAceptar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteMultas.cmdCancelar">
+	<summary>
+Control cmdCancelar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteMultas.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteMultas.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReporteMultas.AutoCompleteExtender1">
+	<summary>
+Control AutoCompleteExtender1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCuentaEdit.frmCuentaEdit">
+	<summary>
+Control frmCuentaEdit.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCuentaEdit.txtCuenta">
+	<summary>
+Control txtCuenta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCuentaEdit.txtDescripcion">
+	<summary>
+Control txtDescripcion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCuentaEdit.cmbTipoCuenta">
+	<summary>
+Control cmbTipoCuenta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCuentaEdit.cmbCentroCostos">
+	<summary>
+Control cmbCentroCostos.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCuentaEdit.chkActiva">
+	<summary>
+Control chkActiva.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCuentaEdit.chkImputable">
+	<summary>
+Control chkImputable.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCuentaEdit.chkAjustable">
+	<summary>
+Control chkAjustable.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCuentaEdit.divErrorForm">
+	<summary>
+Control divErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCuentaEdit.lblErrorForm">
+	<summary>
+Control lblErrorForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCuentaEdit.cmdGuardar">
+	<summary>
+Control cmdGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmCuentaEdit.cmdCancelar">
+	<summary>
+Control cmdCancelar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+</members>
+</doc>
